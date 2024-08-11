@@ -1,7 +1,9 @@
 # MoneyMate
 MoneyMate - Your personal finance tracker
 
-Easily and effectively manage your finances with MoneyMate. Track your income and expenses, visualize spending trends with intuitive bar charts, and gain insights into your financial habits. Designed for ease of use and clarity, MoneyMate helps you stay on top of your budget and make informed financial decisions.\n\nIn Future, more features and functionalities will be added!
+Easily and effectively manage your finances with MoneyMate. Track your income and expenses, visualize spending trends with intuitive bar charts, and gain insights into your financial habits. Designed for ease of use and clarity, MoneyMate helps you stay on top of your budget and make informed financial decisions.
+
+In future, more features and functionalities will be added!
 
 ## Log In page:
 
@@ -15,7 +17,7 @@ Easily and effectively manage your finances with MoneyMate. Track your income an
 
 ![photo_2024-08-11_20-35-10 (2)](https://github.com/user-attachments/assets/fa0eae97-298b-41b0-9b5b-0da124d942d4)
 
-## Stata page
+## Stats page
 
 ![photo_2024-08-11_20-35-10 (4)](https://github.com/user-attachments/assets/a4960e60-21e2-4d95-94fe-489f54ee68e0)
 ![photo_2024-08-11_20-35-10 (3)](https://github.com/user-attachments/assets/606fc96c-39a0-4b41-a4f8-844543aa51eb)
