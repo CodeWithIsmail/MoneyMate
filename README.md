@@ -1,3 +1,5 @@
+# APK: https://github.com/CodeWithIsmail/MoneyMate/releases/tag/v1.0.0
+# DEMO: https://youtu.be/B9e9mVc1600
 # MoneyMate
 MoneyMate - Your personal finance tracker
 
